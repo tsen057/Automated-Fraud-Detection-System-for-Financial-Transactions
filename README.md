@@ -29,8 +29,6 @@ Automated-Fraud-Detection-System
 ├── Creditcard.py              # Main Jupyter script
 ├── README.md                      # Project documentation
 ├── fraud_detection_model.joblib   # Saved trained model
-├── data/
-│   └── creditcard.csv             # Input dataset (Kaggle source)
 └── assets/
     └── fraud_network_graph.png    # Visuals used in README
 ```
@@ -73,7 +71,7 @@ Sample graph visualization of fraudulent transactions:
 4. View insights, train model, analyze NLP output.
 
 ## Dataset Reference
-Dataset used: [Credit Card Fraud Detection on Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+Dataset used: [Credit Card Fraud Detection on Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## Future Improvements
 - Add **class imbalance handling** using SMOTE or other techniques.
