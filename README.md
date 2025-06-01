@@ -29,6 +29,7 @@ Automated-Fraud-Detection-System
 ├── fraud_detection_model.joblib            # Saved trained model
 ├── assets/
 │   └── fraud_network_graph.png             # Graph image 
+|   └── sample_invoice_text.txt
 ├── README.md
 └── requirements.txt
 ```
