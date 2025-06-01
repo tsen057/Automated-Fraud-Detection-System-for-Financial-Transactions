@@ -25,7 +25,7 @@ This project uses machine learning and network graph analysis to identify potent
 ## Project Structure
 ```
 Automated-Fraud-Detection-System
-├── Improved_Fraud_Graph_And_Model.py       # Main Python script
+├── Creditcard.py       # Main Python script
 ├── fraud_detection_model.joblib            # Saved trained model
 ├── assets/
 │   └── fraud_network_graph.png             # Graph image 
