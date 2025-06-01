@@ -28,7 +28,7 @@ Automated-Fraud-Detection-System
 ├── Improved_Fraud_Graph_And_Model.py       # Main Python script
 ├── fraud_detection_model.joblib            # Saved trained model
 ├── assets/
-│   └── fraud_network_graph.png             # Graph image (optional for GitHub)
+│   └── fraud_network_graph.png             # Graph image 
 ├── README.md
 └── requirements.txt
 ```
