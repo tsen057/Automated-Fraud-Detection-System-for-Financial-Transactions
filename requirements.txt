@@ -2,7 +2,5 @@ pandas
 numpy
 scikit-learn
 matplotlib
-seaborn
-spacy
 networkx
 joblib
