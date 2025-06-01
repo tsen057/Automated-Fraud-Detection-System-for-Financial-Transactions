@@ -1,0 +1,4 @@
+Invoice ID: 12345
+Vendor: ABC Corp
+Amount: 5000 USD
+Transaction Date: 01/01/2023
