@@ -1,0 +1,47 @@
+{
+  "confusion_matrix": [
+    [
+      56853,
+      11
+    ],
+    [
+      14,
+      84
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.9997538115251376,
+      "recall": 0.9998065559932471,
+      "f1-score": 0.9997801830635447,
+      "support": 56864.0
+    },
+    "1": {
+      "precision": 0.8842105263157894,
+      "recall": 0.8571428571428571,
+      "f1-score": 0.8704663212435233,
+      "support": 98.0
+    },
+    "accuracy": 0.9995611109160493,
+    "macro avg": {
+      "precision": 0.9419821689204635,
+      "recall": 0.9284747065680521,
+      "f1-score": 0.935123252153534,
+      "support": 56962.0
+    },
+    "weighted avg": {
+      "precision": 0.999555025633657,
+      "recall": 0.9995611109160493,
+      "f1-score": 0.9995577056495077,
+      "support": 56962.0
+    }
+  },
+  "fraud_precision": 0.8842105263157894,
+  "fraud_recall": 0.8571428571428571,
+  "fraud_f1": 0.8704663212435233,
+  "model_selected": "xgboost",
+  "model_comparison_f1": {
+    "random_forest": 0.8457142857142858,
+    "xgboost": 0.8704663212435233
+  }
+}
