@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/__pycache__/config.cpython-312.pyc
+/.vs/Automated-Fraud-Detection-System-for-Financial-Transactions/FileContentIndex
+/.vs/Automated-Fraud-Detection-System-for-Financial-Transactions/v17/.wsuo
+/.vs/Automated-Fraud-Detection-System-for-Financial-Transactions/v17/DocumentLayout.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/dashboard/__pycache__/export_dashboard_data.cpython-312.pyc
+/src/__pycache__/evaluate.cpython-312.pyc
+/src/__pycache__/graph_network.cpython-312.pyc
+/src/__pycache__/nlp_extraction.cpython-312.pyc
+/src/__pycache__/preprocessing.cpython-312.pyc
+/src/__pycache__/train.cpython-312.pyc
+/src/__pycache__/__init__.cpython-312.pyc
+/tests/__pycache__/conftest.cpython-312-pytest-8.3.3.pyc
+/tests/__pycache__/test_graph_network.cpython-312-pytest-8.3.3.pyc
+/tests/__pycache__/test_nlp_extraction.cpython-312-pytest-8.3.3.pyc
+/tests/__pycache__/test_preprocessig.cpython-312-pytest-8.3.3.pyc
+/tests/__pycache__/test_train.cpython-312-pytest-8.3.3.pyc
+env/ __pycache__/ *.pyc .pytest_cache/ data/creditcard.csv models/ .env
+assets/dashboard_data.csv
+data/
